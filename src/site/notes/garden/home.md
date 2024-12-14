@@ -4,27 +4,27 @@
 
 https://mygarden-beryl.vercel.app/
 
-apps
-[![app.shortwave.com](https://www.google.com/s2/favicons?domain=app.shortwave.com)](https://app.shortwave.com/) Shortwave
-[![web.whatsapp.com](https://www.google.com/s2/favicons?domain=web.whatsapp.com)](https://web.whatsapp.com/) WhatsApp Web
-[![Home Assistant favicon ](http://homeassistant.local:3001/favicon.ico | 16x16])](http://homeassistant.local:3001/status/alles) Home Status
+### Apps
+[![Shortwave](https://www.google.com/s2/favicons?domain=app.shortwave.com)](https://app.shortwave.com/) [Shortwave](https://app.shortwave.com/)  
+[![WhatsApp Web](https://www.google.com/s2/favicons?domain=web.whatsapp.com)](https://web.whatsapp.com/) [WhatsApp Web](https://web.whatsapp.com/)  
+[![Home Status](https://www.google.com/s2/favicons?domain=genericfavicon.com)](http://homeassistant.local:3001/status/alles) [Home Status](http://homeassistant.local:3001/status/alles)  
+[![IRC Cloud](https://www.google.com/s2/favicons?domain=irccloud.com)](https://www.irccloud.com/) [IRC Cloud](https://www.irccloud.com/)  
 
-[![IRC Cloud favicon](https://www.google.com/s2/favicons?domain=irccloud.com)](https://www.irccloud.com/) IRC Cloud
+---
 
+### Local
+[![Home Assistant](https://www.google.com/s2/favicons?domain=genericfavicon.com)](http://homeassistant.local:3001/status/alles) [Home Assistant](http://homeassistant.local:3001/status/alles)  
+[![Dashboard](https://www.google.com/s2/favicons?domain=genericfavicon.com)](http://192.168.178.188:3000/board) [Dashboard](http://192.168.178.188:3000/board)  
 
-local
-[![homeassistant.local:3001](https://www.google.com/s2/favicons?domain=homeassistant.local:3001)](http://homeassistant.local:3001/status/alles) Home Assistant
-[![192.168.178.188:3000](https://www.google.com/s2/favicons?domain=192.168.178.188:3000)](http://192.168.178.188:3000/board) Dashboard
+---
 
-nieuws
-[![news.google.com](https://www.google.com/s2/favicons?domain=news.google.com)](https://news.google.com/foryou?hl=nl&gl=NL&ceid=NL:nl) Google Nieuws
-[![news.ycombinator.com](https://www.google.com/s2/favicons?domain=news.ycombinator.com)](https://news.ycombinator.com/) Hacker News
-[![teslamotorsclub.com](https://www.google.com/s2/favicons?domain=teslamotorsclub.com)](https://teslamotorsclub.com/tmc/) Tesla Motors Club
+### Nieuws
+[![Google Nieuws](https://www.google.com/s2/favicons?domain=news.google.com)](https://news.google.com/foryou?hl=nl&gl=NL&ceid=NL:nl) [Google Nieuws](https://news.google.com/foryou?hl=nl&gl=NL&ceid=NL:nl)  
+[![Hacker News](https://www.google.com/s2/favicons?domain=news.ycombinator.com)](https://news.ycombinator.com/) [Hacker News](https://news.ycombinator.com/)  
+[![Tesla Motors Club](https://www.google.com/s2/favicons?domain=teslamotorsclub.com)](https://teslamotorsclub.com/tmc/) [Tesla Motors Club](https://teslamotorsclub.com/tmc/)  
 
-mr green links
-[![butl.nl](https://www.google.com/s2/favicons?domain=butl.nl) butler link mr.green klarenbeek(?)](https://butl.nl/d5zZ9) 
-[![butl.nl](https://www.google.com/s2/favicons?domain=butl.nl) link butler 2](https://butl.nl/L1KRN) 
+---
 
-
-
-
+### Mr. Green Links
+[![Butler Link](https://www.google.com/s2/favicons?domain=butl.nl)](https://butl.nl/d5zZ9) [Butler Link Mr.Green Klarenbeek](https://butl.nl/d5zZ9)  
+[![Butler Link](https://www.google.com/s2/favicons?domain=butl.nl)](https://butl.nl/L1KRN) [Butler Link 2](https://butl.nl/L1KRN)  
