@@ -3,16 +3,21 @@
 ---
 
 
+apps
 [![app.shortwave.com](https://www.google.com/s2/favicons?domain=app.shortwave.com)](https://app.shortwave.com/) Shortwave
 [![web.whatsapp.com](https://www.google.com/s2/favicons?domain=web.whatsapp.com)](https://web.whatsapp.com/) WhatsApp Web
 [![homeassistant.local:3001](https://www.google.com/s2/favicons?domain=homeassistant.local:3001)](http://homeassistant.local:3001/status/alles) Home Assistant
+
+local
+[![homeassistant.local:3001](https://www.google.com/s2/favicons?domain=homeassistant.local:3001)](http://homeassistant.local:3001/status/alles) Home Assistant
+[![192.168.178.188:3000](https://www.google.com/s2/favicons?domain=192.168.178.188:3000)](http://192.168.178.188:3000/board) Dashboard
+
+nieuws
 [![news.google.com](https://www.google.com/s2/favicons?domain=news.google.com)](https://news.google.com/foryou?hl=nl&gl=NL&ceid=NL:nl) Google Nieuws
 [![news.ycombinator.com](https://www.google.com/s2/favicons?domain=news.ycombinator.com)](https://news.ycombinator.com/) Hacker News
-[![192.168.178.188:3000](https://www.google.com/s2/favicons?domain=192.168.178.188:3000)](http://192.168.178.188:3000/board) Dashboard
 [![teslamotorsclub.com](https://www.google.com/s2/favicons?domain=teslamotorsclub.com)](https://teslamotorsclub.com/tmc/) Tesla Motors Club
+
+mr green links
 [![butl.nl](https://www.google.com/s2/favicons?domain=butl.nl)](https://butl.nl/d5zZ9) Butl Link 1
 [![butl.nl](https://www.google.com/s2/favicons?domain=butl.nl)](https://butl.nl/L1KRN) Butl Link 2
-[![web.whatsapp.com](https://www.google.com/s2/favicons?domain=web.whatsapp.com)](https://web.whatsapp.com/) WhatsApp Web
-[![homeassistant.local:3001](https://www.google.com/s2/favicons?domain=homeassistant.local:3001)](http://homeassistant.local:3001/status/alles) Home Assistant
-[![news.google.com](https://www.google.com/s2/favicons?domain=news.google.com)](https://news.google.com/foryou?hl=nl&gl=NL&ceid=NL:nl) Google Nieuws
-[![news.ycombinator.com](https://www.google.com/s2/favicons?domain=news.ycombinator.com)](https://news.ycombinator.com/) Hacker News
+
