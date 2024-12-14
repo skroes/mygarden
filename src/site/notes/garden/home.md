@@ -3,6 +3,7 @@
 ---
 
 https://mygarden-beryl.vercel.app/
+[[garden/lala\|lala]]
 
 ### Apps
 ![ChatGPT](https://www.google.com/s2/favicons?domain=chatgpt.com) [ChatGPT](https://chatgpt.com)  
