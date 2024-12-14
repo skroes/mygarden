@@ -6,7 +6,10 @@
 apps
 [![app.shortwave.com](https://www.google.com/s2/favicons?domain=app.shortwave.com)](https://app.shortwave.com/) Shortwave
 [![web.whatsapp.com](https://www.google.com/s2/favicons?domain=web.whatsapp.com)](https://web.whatsapp.com/) WhatsApp Web
-[![homeassistant.local:3001](https://www.google.com/s2/favicons?domain=homeassistant.local:3001)](http://homeassistant.local:3001/status/alles) Home Assistant
+[![Home Assistant favicon ](http://homeassistant.local:3001/favicon.ico | 16x16])](http://homeassistant.local:3001/status/alles) Home Status
+
+[![IRC Cloud favicon](https://www.google.com/s2/favicons?domain=irccloud.com)](https://www.irccloud.com/) IRC Cloud
+
 
 local
 [![homeassistant.local:3001](https://www.google.com/s2/favicons?domain=homeassistant.local:3001)](http://homeassistant.local:3001/status/alles) Home Assistant
@@ -20,4 +23,7 @@ nieuws
 mr green links
 [![butl.nl](https://www.google.com/s2/favicons?domain=butl.nl)](https://butl.nl/d5zZ9) Butl Link 1
 [![butl.nl](https://www.google.com/s2/favicons?domain=butl.nl)](https://butl.nl/L1KRN) Butl Link 2
+
+
+
 
