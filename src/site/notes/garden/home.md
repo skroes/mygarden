@@ -5,6 +5,7 @@
 https://mygarden-beryl.vercel.app/
 
 ### Apps
+![ChatGPT](https://www.google.com/s2/favicons?domain=chatgpt.com) [ChatGPT](https://chatgpt.com)  
 ![Shortwave](https://www.google.com/s2/favicons?domain=app.shortwave.com) [Shortwave](https://app.shortwave.com/)  
 ![WhatsApp Web](https://www.google.com/s2/favicons?domain=web.whatsapp.com) [WhatsApp Web](https://web.whatsapp.com/)  
 ![IRC Cloud](https://www.google.com/s2/favicons?domain=irccloud.com) [IRC Cloud](https://www.irccloud.com/)  
