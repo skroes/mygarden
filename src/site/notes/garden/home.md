@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"]}
 ---
 
+### Nieuws
+![Google Nieuws](https://www.google.com/s2/favicons?domain=news.google.com) [Google Nieuws](https://news.google.com/foryou?hl=nl&gl=NL&ceid=NL:nl)  
+![Hacker News](https://www.google.com/s2/favicons?domain=news.ycombinator.com) [Hacker News](https://news.ycombinator.com/)  
+![Tesla Motors Club](https://www.google.com/s2/favicons?domain=teslamotorsclub.com) [Tesla Motors Club](https://teslamotorsclub.com/tmc/)  
+https://lobste.rs/
+https://www.reddit.com/
+
 ### Hot
 ![BenAI](https://www.google.com/s2/favicons?domain=https://bens-ai.circle.so) [BenAI](https://bens-ai.circle.so/c/discussion/)  
 
@@ -21,12 +28,6 @@
 ### Local Apps
 ![Dashboard](https://www.google.com/s2/favicons?domain=https://flowiseai.com/) [Flowwise AI](http://192.168.178.147:3000/chatflows)  
 
-### Nieuws
-![Google Nieuws](https://www.google.com/s2/favicons?domain=news.google.com) [Google Nieuws](https://news.google.com/foryou?hl=nl&gl=NL&ceid=NL:nl)  
-![Hacker News](https://www.google.com/s2/favicons?domain=news.ycombinator.com) [Hacker News](https://news.ycombinator.com/)  
-![Tesla Motors Club](https://www.google.com/s2/favicons?domain=teslamotorsclub.com) [Tesla Motors Club](https://teslamotorsclub.com/tmc/)  
-https://lobste.rs/
-https://www.reddit.com/
 
 Ongoing 
 https://activitywatch.net/
