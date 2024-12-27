@@ -39,11 +39,11 @@
 
 ### Local
 
-![AdGuard HomeAssistant](https://www.google.com/s2/favicons?domain=nabu.casa) [AdGuard HomeAssistant](https://8n14ktgw1praq5sx9lb1lmhoe88llttz.ui.nabu.casa/)
-
-![Uptime Kuma alles](https://www.google.com/s2/favicons?domain=www.home-assistant.io/) [Uptime Kuma alles](http://homeassistant.local:3001/status/alles)  
-
 ![Homer Dashboard](https://www.google.com/s2/favicons?domain=https://homer-demo.netlify.app/) [Homer Dashboard](http://192.168.178.188:3000/board)  
+![Home Assistant](https://www.google.com/s2/favicons?domain=nabu.casa) [Home Assistant](https://8n14ktgw1praq5sx9lb1lmhoe88llttz.ui.nabu.casa/)
+![AdGuard](https://www.google.com/s2/favicons?domain=nabu.casa) [AdGuard](https://8n14ktgw1praq5sx9lb1lmhoe88llttz.ui.nabu.casa/a0d7b954_adguard/ingress)
+![Zigbee2MQTT](https://www.google.com/s2/favicons?domain=nabu.casa) [Zigbee2MQTT](https://8n14ktgw1praq5sx9lb1lmhoe88llttz.ui.nabu.casa/45df7312_zigbee2mqtt/ingress)
+![Uptime Kuma alles](https://www.google.com/s2/favicons?domain=www.home-assistant.io/) [Uptime Kuma alles](http://homeassistant.local:3001/status/alles)  
 
 ### Local Apps
 ![Chatflows FlowwiseAI](https://www.google.com/s2/favicons?domain=192.168.178.147) [Chatflows FlowwiseAI](http://192.168.178.147:3000/chatflows)
