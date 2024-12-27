@@ -39,6 +39,9 @@
 
 ### Local
 ![Home Assistant](https://www.google.com/s2/favicons?domain=www.home-assistant.io/) [Home Assistant](http://homeassistant.local:3001/status/alles)  
+
+![AdGuard HomeAssistant](https://www.google.com/s2/favicons?domain=nabu.casa) [AdGuard HomeAssistant](https://8n14ktgw1praq
+
 ![Dashboard](https://www.google.com/s2/favicons?domain=https://homer-demo.netlify.app/) [Dashboard](http://192.168.178.188:3000/board)  
 ![Home Status](https://www.google.com/s2/favicons?domain=genericfavicon.com) [Home Status](http://homeassistant.local:3001/status/alles)  
 
