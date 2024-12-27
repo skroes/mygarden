@@ -38,12 +38,12 @@
 
 
 ### Local
-![Home Assistant](https://www.google.com/s2/favicons?domain=www.home-assistant.io/) [Home Assistant](http://homeassistant.local:3001/status/alles)  
 
-![AdGuard HomeAssistant](https://www.google.com/s2/favicons?domain=nabu.casa) [AdGuard HomeAssistant](https://8n14ktgw1praq
+![AdGuard HomeAssistant](https://www.google.com/s2/favicons?domain=nabu.casa) [AdGuard HomeAssistant](https://8n14ktgw1praq5sx9lb1lmhoe88llttz.ui.nabu.casa/)
 
-![Dashboard](https://www.google.com/s2/favicons?domain=https://homer-demo.netlify.app/) [Dashboard](http://192.168.178.188:3000/board)  
-![Home Status](https://www.google.com/s2/favicons?domain=genericfavicon.com) [Home Status](http://homeassistant.local:3001/status/alles)  
+![Uptime Kuma alles](https://www.google.com/s2/favicons?domain=www.home-assistant.io/) [Uptime Kuma alles](http://homeassistant.local:3001/status/alles)  
+
+![Homer Dashboard](https://www.google.com/s2/favicons?domain=https://homer-demo.netlify.app/) [Homer Dashboard](http://192.168.178.188:3000/board)  
 
 ### Local Apps
 ![Chatflows FlowwiseAI](https://www.google.com/s2/favicons?domain=192.168.178.147) [Chatflows FlowwiseAI](http://192.168.178.147:3000/chatflows)
