@@ -9,7 +9,12 @@
 ![Hacker News](https://www.google.com/s2/favicons?domain=news.ycombinator.com) [Hacker News](https://news.ycombinator.com/)  
 ![Reddit](https://www.google.com/s2/favicons?domain=reddit.com) [Reddit](https://www.reddit.com/)
 ![lobste.rs/](https://www.google.com/s2/favicons?domain=lobste.rs) [Lobste.rs](https://lobste.rs/)  
+https://itchannelpro.nl/
+https://www.computable.nl/
 
+
+keepers
+https://www.omdenken.nl/consument
 
 ### Community / chat / forum
 ![BenAI](https://www.google.com/s2/favicons?domain=https://bens-ai.circle.so) [BenAI](https://bens-ai.circle.so/c/discussion/)  
@@ -60,6 +65,29 @@
 ![UniFi OS Console](https://www.google.com/s2/favicons?domain=192.168.178.1) [UniFi OS Console](https://192.168.178.1/login)
 ![Proxmox](https://www.google.com/s2/favicons?domain=192.168.178.89) [Proxmox](https://192.168.178.89:8006/)
 
+### blogs
+https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1
+
+
 ### Mr. Green Links
 ![Butler Link](https://www.google.com/s2/favicons?domain=butl.nl) [Butler Mr.Green Klarenbeek](https://butl.nl/d5zZ9)  ![Butler Link](https://www.google.com/s2/favicons?domain=butl.nl) [Zwolle](https://butl.nl/L1KRN)  
 
+https://mygarden-beryl.vercel.app/
+
+https://mygarden-beryl.vercel.app/lala
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/garden/lala/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+lala pub
+
+
+link ???
+
+
+</div></div>
+
+
+https://mygarden-beryl.vercel.app/tesla
